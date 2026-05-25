@@ -15,9 +15,13 @@ The project includes visual comparisons for:
 
 These figures help show how each distillation method affects student performance and knowledge transfer quality.
 
-<img width="1600" height="838" alt="73762e93-a156-400f-8874-9b569166bb4d" src="https://github.com/user-attachments/assets/4a543551-31c6-4003-b162-6a39a4259bba" />
-<img width="1600" height="847" alt="WhatsApp Image 2026-05-25 at 9 16 33 AM" src="https://github.com/user-attachments/assets/b3ea3eb1-c2bb-4e2f-bbbe-5f3663ca7481" />
-<img width="1488" height="1196" alt="WhatsApp Image 2026-05-24 at 11 39 50 PM" src="https://github.com/user-attachments/assets/09103b94-5978-4008-b396-eb4de5d46dc5" />
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/4a543551-31c6-4003-b162-6a39a4259bba" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/b3ea3eb1-c2bb-4e2f-bbbe-5f3663ca7481" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/09103b94-5978-4008-b396-eb4de5d46dc5" width="100%"></td>
+  </tr>
+</table>
 
 The experiments were performed on the CIFAR-100 dataset.
 
@@ -64,7 +68,7 @@ EKD transfers both class probability information and uncertainty-aware knowledge
 | DKD | 71.06 | 71.57 |
 | EKD | 71.51 | 71.27 |
 
-# Side-by-Side Accuracy Comparison: Paper Results(https://openaccess.thecvf.com/content/ICCV2025/papers/Xiang_Evidential_Knowledge_Distillation_ICCV_2025_paper.pdf) vs Our Results
+## Side-by-Side Accuracy Comparison: Paper Results(https://openaccess.thecvf.com/content/ICCV2025/papers/Xiang_Evidential_Knowledge_Distillation_ICCV_2025_paper.pdf) vs Our Results
 
 ## Results Summary
 
