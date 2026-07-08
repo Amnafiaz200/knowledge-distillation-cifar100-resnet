@@ -65,8 +65,8 @@ EKD transfers both class probability information and uncertainty-aware knowledge
 | Teacher | 74.31 | 73.69 |
 | Student / Hard Label / CE | 69.06 | 69.47 |
 | KD / Vanilla KD | 70.67 | 71.25 |
-| DKD | 71.06 | 71.57 |
-| EKD | 71.51 | 71.27 |
+| DKD | 71.06 | 71.18 |
+| EKD | 71.51 | 71.57 |
 
 ## Side-by-Side Accuracy Comparison: Paper Results(https://openaccess.thecvf.com/content/ICCV2025/papers/Xiang_Evidential_Knowledge_Distillation_ICCV_2025_paper.pdf) vs Our Results
 
